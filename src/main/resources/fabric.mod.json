@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "zeldamod",
+  "version": "${version}",
+  "name": "Zeldamod",
+  "description": "A mod that brings Zelda content into Minecraft.",
+  "authors": [
+    "FabioBnt",
+    "dodolezozo"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/zeldamod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.fabiobnt.zeldamod.client.ZeldamodClient"
+    ],
+    "main": [
+      "net.fabiobnt.zeldamod.Zeldamod"
+    ]
+  },
+  "mixins": [
+    "zeldamod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.15",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}
