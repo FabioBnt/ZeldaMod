@@ -1151,12 +1151,21 @@
 			"rotation": [0, 90, 0],
 			"translation": [-1.5, 5.5, 2.5]
 		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.5, 5.5, 2.5]
+		},
 		"ground": {
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
 			"rotation": [0, 0, -45],
 			"translation": [-0.75, -0.75, 0]
+		},
+		"head": {
+			"rotation": [0, 0, -135],
+			"translation": [0, -13, 3.75],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
