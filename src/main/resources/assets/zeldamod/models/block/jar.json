@@ -99,7 +99,7 @@
 	},
 	"groups": [
 		{
-			"name": "Jars",
+			"name": "Jar",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6]

@@ -1,4 +1,8 @@
 {
   "item.zeldamod.sword": "Sword",
-  "item.zeldamod.master_sword": "Master Sword"
+  "item.zeldamod.master_sword": "Master Sword",
+
+  "block.zeldamod.jar": "Jar",
+
+  "itemGroup.zeldamod.zelda": "Zelda Mod"
 }
