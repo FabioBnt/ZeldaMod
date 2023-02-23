@@ -1,5 +1,6 @@
 package net.fabiobnt.zeldamod;
 
+import net.fabiobnt.zeldamod.block.ModBlocks;
 import net.fabiobnt.zeldamod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.LoggerFactory;
@@ -13,5 +14,6 @@ public class Zeldamod implements ModInitializer {
     public void onInitialize() {
         LOGGER.debug("Initializing " + MOD_ID + "");
         ModItems.registerItems();
+        ModBlocks.registerModBlocks();
     }
 }
