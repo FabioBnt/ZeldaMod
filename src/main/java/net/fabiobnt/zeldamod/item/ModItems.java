@@ -11,7 +11,7 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     public static final ToolItem SWORD = registerItem("sword",
-            new CustomSwordItem(ToolMaterials.IRON,4,1.6F, new FabricItemSettings().group(ModItemGroup.ZELDA).maxCount(1)));
+            new CustomSwordItem(ToolMaterials.IRON,4,-2.4F, new FabricItemSettings().group(ModItemGroup.ZELDA).maxCount(1)));
     public static final Item MASTER_SWORD = registerItem("master_sword",
             new Item(new FabricItemSettings().group(ModItemGroup.ZELDA)));
 
