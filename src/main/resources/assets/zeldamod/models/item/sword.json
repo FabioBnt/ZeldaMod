@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "sword",
-		"particle": "sword"
+		"0": "zeldamod:item/sword",
+		"particle": "zeldamod:item/sword"
 	},
 	"elements": [
 		{
