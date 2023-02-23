@@ -181,7 +181,9 @@
 			"rotation": [0, 0, -45]
 		},
 		"head": {
-			"translation": [0, 7.25, 0]
+			"rotation": [0, 0, -135],
+			"translation": [0, -12.75, 4],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
