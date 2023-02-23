@@ -1,7 +1,6 @@
 package net.fabiobnt.zeldamod.item;
 
 import net.fabiobnt.zeldamod.Zeldamod;
-import net.fabricmc.fabric.api.item.v1.CustomDamageHandler;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
