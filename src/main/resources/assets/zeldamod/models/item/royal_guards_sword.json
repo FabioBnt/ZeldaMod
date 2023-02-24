@@ -1148,12 +1148,12 @@
 			"translation": [0, 3.75, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 90, 0],
-			"translation": [-1.5, 5.5, 2.5]
+			"rotation": [0, 90, 10],
+			"translation": [0.5, 3.75, 0.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, 0],
-			"translation": [-1.5, 5.5, 2.5]
+			"rotation": [0, 90, 10],
+			"translation": [0.5, 3.75, 0.75]
 		},
 		"ground": {
 			"translation": [0, 4.25, 0]
